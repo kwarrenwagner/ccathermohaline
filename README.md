@@ -23,15 +23,15 @@ This study effectively applied PCA to reduce the dimensionality of a significant
 
 ## Appendix:
 ### Figure 1.1
-
+![alt text](https://github.com/kwarrenwagner/ccathermohaline/blob/main/cca5temperature.png)
 ### Figure 1.2
 ![alt text](https://github.com/kwarrenwagner/ccathermohaline/blob/main/cca5salinity.png)
 ### Figure 2.1
-
+![alt text](https://github.com/kwarrenwagner/ccathermohaline/blob/main/map5.png)
 ### Figure 2.2
-
+![alt text](https://github.com/kwarrenwagner/ccathermohaline/blob/main/meantemperatureplusonesd.png)
 ### Figure 2.3
-
+![alt text](https://github.com/kwarrenwagner/ccathermohaline/blob/main/meansalinityplusonesd.png)
 ### Figure 3.1
 
 ### Figure 3.2
