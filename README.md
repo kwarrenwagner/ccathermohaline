@@ -24,9 +24,6 @@ This study effectively applied PCA to reduce the dimensionality of a significant
 ### Figure 1.1 & 1.2
 
 
-
-
-
 ### Figure 2.1
 
 ### Figure 2.2
