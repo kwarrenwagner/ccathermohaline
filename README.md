@@ -33,7 +33,7 @@ This study effectively applied PCA to reduce the dimensionality of a significant
 ### Figure 2.3
 ![alt text](https://github.com/kwarrenwagner/ccathermohaline/blob/main/meansalinityplusonesd.png)
 ### Figure 3.1
-
+![alt text](https://github.com/kwarrenwagner/ccathermohaline/blob/main/latscatter5.png)
 ### Figure 3.2
-
+![alt text](https://github.com/kwarrenwagner/ccathermohaline/blob/main/lonscatter5.png)
 
