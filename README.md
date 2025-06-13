@@ -22,9 +22,10 @@ Additionally, I extended my analysis by mapping out the days as a function of la
 This study effectively applied PCA to reduce the dimensionality of a significant dataset capturing the Pacific Ocean's temperature and salinity profiles, followed by CCA to investigate their correlational relationship. The methodological rigor in selecting principal components and careful avoidance of overfitting led to robust findings, particularly notable in the central longitudinal stretches of the ocean where high canonical scores were prevalent. The data did not display significant temporal trends, suggesting that temperature and salinity profiles in the Pacific Ocean are principally shaped by broader geophysical processes rather than transient meteorological conditions. These insights further our understanding of the ocean's complex dynamics and provide a firm foundation for future studies in the field of oceanography.
 
 ## Appendix:
-### Figure 1.1 & 1.2
+### Figure 1.1
 
-
+### Figure 1.2
+![alt text](https://github.com/kwarrenwagner/ccathermohaline/blob/main/cca5salinity.png)
 ### Figure 2.1
 
 ### Figure 2.2
